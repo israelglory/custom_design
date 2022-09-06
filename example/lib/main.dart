@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const SearchBar(hint: 'Search from your house'),
-            SizedBox(
+            const SizedBox(
               height: 100,
             ),
             const Text(

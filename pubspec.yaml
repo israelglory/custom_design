@@ -1,7 +1,8 @@
 name: custom_design
-description: A new Flutter package project.
+description: Custom flutter design that can be used across applications.
 version: 0.0.1
-homepage: https://github.com/israelglory
+author: Glory Olaifa<iglory6@gmail.com>
+homepage: https://github.com/israelglory/custom_design.git
 
 environment:
   sdk: '>=2.19.0-154.0.dev <3.0.0'
