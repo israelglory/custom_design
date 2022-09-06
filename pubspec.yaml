@@ -1,7 +1,6 @@
 name: custom_design
 description: Custom flutter design that can be used across applications.
-version: 0.0.1
-author: Glory Olaifa<iglory6@gmail.com>
+version: 0.0.2
 homepage: https://github.com/israelglory/custom_design.git
 
 environment:
